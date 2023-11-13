@@ -32,6 +32,8 @@
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,git&theme=dark" />
 </p>
 
+<h3 align="left">Stats</h3>
+
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah-al-mehmud&show_icons=true&locale=en&layout=compact" alt="abdullah-al-mehmud" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah-al-mehmud&show_icons=true&locale=en" alt="abdullah-al-mehmud" /></p>
