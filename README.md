@@ -3,7 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mehmud!;" />
 </h1>
-<h3 align="center" color='green'>A passionate frontend developer from Bangladesh</h3>
+<h3 align="center" >A passionate frontend developer from Bangladesh</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C5612AQHiTrnCOeJL8A/article-cover_image-shrink_720_1280/0/1628287501471?e=2147483647&v=beta&t=VV-s2SLRSBjhmBU3swkn3Y2x3Y_h8Qme5PqSC0GQBzQ">
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **timehmud121@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📱 Connect with me 📱</h3>
 <p align="left">
 <a href="https://twitter.com/mehmud_ti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehmud_ti" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdullah al mehmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah al mehmud" height="30" width="40" /></a>
