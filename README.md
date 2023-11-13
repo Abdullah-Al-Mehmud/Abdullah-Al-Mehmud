@@ -11,16 +11,14 @@
 
 - 🔭 I’m currently working on **something unique projects😎😎**
 
-- 🌱 I’m currently learning **JavaScript and may explore more in react and so on.🤔**
-
-- 👨‍💻 All of my projects are available at [almehmud.com](almehmud.com)
+- 🌱 I’m currently learning **React , Node , Express , Firebase , MongoDB**
 
 - 💬 Ask me about **anything ,,,but no personal..lol😜😜**
 
 - 📫 How to reach me **timehmud121@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/mehmud_ti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehmud_ti" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdullah al mehmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah al mehmud" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/abduĺlah al mehmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abduĺlah al mehmud" height="30" width="40" /></a>
