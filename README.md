@@ -27,13 +27,12 @@
 </p>
 <br/>
 <br/>
-<div align='center'>
-    <h3 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h3>
-<p align="left"> 
+ <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
+<p align="center"> 
     <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,react,express,firebase,mongodb,vscode,c&theme=dark" /> <br/>
     <img align="center" src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,git&theme=dark" />
 </p>
-</div>
+
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
