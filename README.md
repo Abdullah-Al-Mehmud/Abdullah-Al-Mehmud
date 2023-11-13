@@ -28,7 +28,7 @@
 
 <h3 align="left">Languages-Frameworks-Tools</h3>
 <p align="left"> 
-<img src="https://skillicons.dev/icons?i=js,html,css,react&theme=light" />
+<img src="https://skillicons.dev/icons?i=js,html,css,react&theme=dark" />
 </p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah-al-mehmud&show_icons=true&locale=en&layout=compact" alt="abdullah-al-mehmud" /></p>
