@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mehmud!;" />
 </h1>
 <h3 align="center" >A passionate frontend developer from Bangladesh</h3>
-
+<br/>
  <h3 align="center">💻What I Do?💻</h3>
 <p align="center">
  🚀 Hey there! I'm a MERN stack developer, which means I'm into creating cool websites and apps. I'm like a tech chef, using MongoDB, Express.js, React.js, and Node.js to make everything work smoothly.Always learning and staying updated on the latest tech trends.🚀
