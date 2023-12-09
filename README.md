@@ -9,6 +9,8 @@
 <p align="center">
  🚀 Hey there! I'm a MERN stack developer, which means I'm into creating cool websites and apps. I'm like a tech chef, using MongoDB, Express.js, React.js, and Node.js to make everything work smoothly.Always learning and staying updated on the latest tech trends.🚀
 </p>
+<br/><br/>
+<hr/>
 
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C5612AQHiTrnCOeJL8A/article-cover_image-shrink_720_1280/0/1628287501471?e=2147483647&v=beta&t=VV-s2SLRSBjhmBU3swkn3Y2x3Y_h8Qme5PqSC0GQBzQ">
 
